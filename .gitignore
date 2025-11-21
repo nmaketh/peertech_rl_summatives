@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Torch & large model files
+*.pt
+*.zip
+*.onnx
+
+# SB3 logs
+logs/
+
+# TensorBoard
+tensorboard/
+
+# Saved trained models (optional, keep best small ones)
+models/**/*.zip
+models/**/*.pth

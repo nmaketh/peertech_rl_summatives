@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/peertech_rl_summatives"
+		},
+		{
+			"path": "../baselines"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../evaluation"
+		},
+		{
+			"path": "../scripts"
+		},
+		{
+			"path": "../training"
+		},
+		{
+			"path": "../venv"
+		}
+	],
+	"settings": {}
+}

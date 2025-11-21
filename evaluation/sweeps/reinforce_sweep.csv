@@ -1,0 +1,11 @@
+algo,avg_length,avg_reward,gamma,hidden_dim,learning_rate,model_path,run_id,std_reward
+REINFORCE,8.933333396911621,-6.8868021965026855,0.98,64,0.0003,C:\peertech_rl_summatives\models\pg\reinforce_sweep\reinforce_sweep_run01_20251121_034730.pt,1,10.5991792678833
+REINFORCE,10.466666221618652,-12.56008529663086,0.99,64,0.0001,C:\peertech_rl_summatives\models\pg\reinforce_sweep\reinforce_sweep_run02_20251121_034741.pt,2,7.89906120300293
+REINFORCE,8.933333396911621,-10.478428840637207,0.99,64,0.0005,C:\peertech_rl_summatives\models\pg\reinforce_sweep\reinforce_sweep_run03_20251121_034751.pt,3,6.208439826965332
+REINFORCE,5.133333206176758,-12.732665061950684,0.98,128,0.001,C:\peertech_rl_summatives\models\pg\reinforce_sweep\reinforce_sweep_run04_20251121_034801.pt,4,2.1500465869903564
+REINFORCE,10.333333015441895,-11.289999961853027,0.98,64,0.0001,C:\peertech_rl_summatives\models\pg\reinforce_sweep\reinforce_sweep_run05_20251121_034811.pt,5,8.930832862854004
+REINFORCE,11.266666412353516,-0.5515148043632507,0.99,64,0.001,C:\peertech_rl_summatives\models\pg\reinforce_sweep\reinforce_sweep_run06_20251121_034823.pt,6,14.237857818603516
+REINFORCE,11.266666412353516,-3.7597849369049072,0.99,128,0.001,C:\peertech_rl_summatives\models\pg\reinforce_sweep\reinforce_sweep_run07_20251121_034835.pt,7,10.017304420471191
+REINFORCE,10.800000190734863,-11.791333198547363,0.99,64,0.0003,C:\peertech_rl_summatives\models\pg\reinforce_sweep\reinforce_sweep_run08_20251121_034845.pt,8,11.853155136108398
+REINFORCE,9.800000190734863,-3.3208460807800293,0.98,64,0.0005,C:\peertech_rl_summatives\models\pg\reinforce_sweep\reinforce_sweep_run09_20251121_034855.pt,9,9.350702285766602
+REINFORCE,8.066666603088379,-11.164813995361328,0.99,128,0.0005,C:\peertech_rl_summatives\models\pg\reinforce_sweep\reinforce_sweep_run10_20251121_034903.pt,10,9.338059425354004
