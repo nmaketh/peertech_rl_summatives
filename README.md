@@ -30,9 +30,6 @@ High-Level Architecture
 
 3. Environment Design
 
-Copy-paste into:
-wiki › Environment-Design.md
-
 Environment Design
 
 The environment is implemented in environment/custom_env.py and follows Gymnasium API standards.
@@ -211,7 +208,7 @@ A2C	9.11	★★★☆☆	Fast learner
 REINFORCE	2–5	★☆☆☆☆	Very unstable
 📄 7. Demo Script (3 minutes)
 
-video DEMO: 
+video DEMO: https://drive.google.com/file/d/1cOPfG1HzfoXGofp8bihVUQ-TWKeK80Kn/view?usp=sharing
 
 
 
