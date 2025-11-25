@@ -76,8 +76,7 @@ max steps reached (lesson end)
  
  4. RL Algorithms
 
-Copy-paste into:
-wiki › Reinforcement-Learning-Algorithms.md
+
 
 Reinforcement Learning Algorithms
 
@@ -173,7 +172,7 @@ floating arms
 ✔ Glass UI Panels
 
 
-📄 6. Training & Evaluation
+ 6. Training & Evaluation
 
 
 
@@ -188,7 +187,8 @@ python training/train_ppo.py
 python training/train_a2c.py
 python training/train_reinforce.py
 
-📊 Evaluation Metrics
+ 
+ Evaluation Metrics
 
 episode reward
 
@@ -200,13 +200,14 @@ reward variance
 
 mastery progression
 
-🏆 Final Results Summary
+Final Results Summary
 Model	Avg Reward	Stability	Notes
 DQN	10.99	★★★★★	Best
 PPO	9.46	★★★★☆	Stable
 A2C	9.11	★★★☆☆	Fast learner
 REINFORCE	2–5	★☆☆☆☆	Very unstable
-📄 7. Demo Script (3 minutes)
+
+7. Demo Script (3 minutes)
 
 video DEMO: https://drive.google.com/file/d/1cOPfG1HzfoXGofp8bihVUQ-TWKeK80Kn/view?usp=sharing
 
